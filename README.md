@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there, I'm Nafees! 👋
 
-<!--
-**na5lc/na5lc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate student majoring in **Computer Science & Engineering**  
+🌍 Based in **Dhaka, Bangladesh**  
+💻 Passionate about **software development** and **open source**  
+🌱 Currently learning and growing as a developer  
+🔭 Always exploring new projects and technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I'm a 22-year-old CSE student with a strong enthusiasm for building things and contributing to the open source community. I enjoy turning ideas into real-world solutions and collaborating with developers around the world.
+
+---
+
+### 🌱 Currently
+
+- 📚 Studying **Computer Science & Engineering**
+- 🛠️ Working on personal & open source **development projects**
+- 🤝 Looking to collaborate on **open source** initiatives
+
+---
+
+### 📫 How to Reach Me
+
+- GitHub: [@na5lc](https://github.com/na5lc)
+- insta: na5lc
+
+---
+
+*"Code is not just syntax — it's a way of thinking."*
