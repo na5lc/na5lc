@@ -1,96 +1,61 @@
-<div align="center">
+<!-- Visitor Counter -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=na5lc&label=Profile%20views&color=0e75b6&style=flat" alt="na5lc" />
+</p>
 
-```
-systemctl --user status nafees.service
-```
-
-```
-● nafees.service — Nafees's Operating Runtime
-  Loaded: loaded (/etc/systemd/user/nafees.service)
-  Active: active (running) — and always iterating
-  Main PID: [REDACTED]
-  CGroup: /user.slice/nafees
-          └─ curiosity        [running]
-          └─ discipline       [running]
-          └─ open_source      [running]
-          └─ sleep            [occasionally]
-```
-
-*"Code is not just syntax — it's a way of thinking."*
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Nafees+%F0%9F%91%8B;CSE+Student+%40+East+West+University;Full+Stack+Developer+in+Progress;Building+cool+stuff+with+React+%26+Node.js;Always+learning%2C+always+building" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-**Minimal. Focused. Consistent.**
+<!-- GitHub Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=na5lc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=na5lc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+</p>
 
-<img src="https://count.getloli.com/get/@na5lc?name=na5lc&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="visitor counter"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🎓 Nafees | CSE Undergrad · Dhaka, Bangladesh
-
-</div>
-
-```python
-nafees = {
-    "age":        22,
-    "university": "CSE — Dhaka",
-    "passion":    ["software dev", "open source", "building things"],
-    "learning":   ["Spring Boot", "AI/ML", "System Design"],
-    "motto":      "Ship it. Learn. Repeat."
-}
-```
+<!-- Contribution Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=na5lc&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+</p>
 
 ---
 
-### 🚀 Tech Stack
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=na5lc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=na5lc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=na5lc&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
+<!-- WakaTime Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=na5lc&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+</p>
 
 ---
 
-### 🔥 Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=na5lc&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 📌 Featured Project
-
-[![AI Resume Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=na5lc&repo=AI-Resume-Analyzer&theme=tokyonight&hide_border=true)](https://github.com/na5lc/AI-Resume-Analyzer)
+<!-- Spotify Now Playing -->
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/na5lc/na5lc/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
-📫 **Reach me:** [@na5lc](https://github.com/na5lc) · Instagram: `na5lc`
+---
 
-</div>
+<p align="center">
+  <i>✨ Profile auto-updates daily via GitHub Actions</i>
+</p>
