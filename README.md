@@ -28,7 +28,7 @@
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=na5lc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=na5lc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="Trophies" />
 </p>
 
 ---
