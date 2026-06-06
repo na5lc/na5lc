@@ -33,13 +33,6 @@
 
 ---
 
-<!-- WakaTime Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=na5lc&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
-</p>
-
----
-
 <!-- Spotify Now Playing -->
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=zdu0r07iugya9c0boaqrsbley&redirect=true">
