@@ -22,7 +22,7 @@ systemctl --user status nafees.service
 
 **Minimal. Focused. Consistent.**
 
-[![](https://visitcount.itsvg.in/api?id=na5lc&label=PROFILE%20VIEWS&color=1&icon=9&pretty=true)](https://visitcount.itsvg.in)
+<img src="https://count.getloli.com/get/@na5lc?name=na5lc&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="visitor counter"/>
 
 </div>
 
